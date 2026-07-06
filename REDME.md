@@ -271,3 +271,6 @@ Dashboards available in this repository:
 ## Confidentiality Notice
 
 The implementation source code is not publicly available due to confidentiality and intellectual property restrictions. This repository exists to showcase the architecture, engineering practices, infrastructure design, and DevSecOps workflow developed during this graduation project.
+
+Project demonstration
+https://polytechintl-my.sharepoint.com/:v:/g/personal/m_souadi21155_pi_tn/IQBpKZDVJ2ifSo6oesYEy8pNARmTOFKXEbesATfYH130ydw?e=eYKA7q&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
